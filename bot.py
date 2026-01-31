@@ -1,7 +1,7 @@
 from telegram.ext import Updater, MessageHandler, Filters
 import random
 
-TOKEN = "YOUR_BOT_TOKEN"
+TOKEN = "8463731320:AAEj3LmAmmJjaeqe3geqnlLXYi2rEuRoxmc"
 
 responses = {
     "hello": ["Hello 👋", "Hi there!", "Hey! How are you?"],
